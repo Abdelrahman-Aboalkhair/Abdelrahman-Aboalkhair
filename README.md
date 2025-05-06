@@ -27,7 +27,7 @@ I'm Abdelrahman Aboalkhair, an 18-year-old Egyptian full-stack web developer wit
 ## 🚀 Projects
 - **WinchUp** (Startup)  
   A web app connecting people relocating with winch operators (drivers and companies), streamlining logistics with a user-centric design.  
-  *Tech*: Next.js, Nest.js, Postgres, Prisma
+  *Tech*: Next.js, Node.js, MongoDB  
   *Repo*: [github.com/Abdelrahman-Aboalkhair/winchup](https://github.com/Abdelrahman-Aboalkhair/winchup)
 
 - **Resala Charity Donor Management System**  
@@ -47,18 +47,22 @@ I'm Abdelrahman Aboalkhair, an 18-year-old Egyptian full-stack web developer wit
 
 ## 🏆 Achievements
 - Developed production-ready web applications as a self-taught developer.
-- Working on my first startup WinchUp, addressing real-world logistics challenges.
+- Launched WinchUp, addressing real-world logistics challenges.
 - Built a donor management system for Resala Charity, supporting community impact.
 - Mastered full-stack development and AI integration at a young age.
 
-## 🤝 Let's Connect
-I'm excited to collaborate on innovative projects or explore opportunities where I can contribute my skills. Whether you're building a startup, need a full-stack developer, or want to discuss IoT and AI, feel free to reach out!
+## 📄 Resume
+### Professional Summary
+Egyptian full-stack web developer skilled in building scalable, high-performance systems. Proficient in Next.js, Node.js, and TypeScript, with expertise in integrating AI, machine learning, and 3D models. Passionate about creating innovative web applications and exploring IoT to combine electronics with AI-driven solutions. Self-taught and driven to deliver impactful projects.
 
-- 📧 Email: [your.email@example.com](mailto:abdalrahman.aboalkhair.1@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/abdelrahman-aboalkhair-65771833b](https://www.linkedin.com/in/abdelrahman-aboalkhair-65771833b)
-- 🌐 Portfolio: [abdelrahman-aboalkhair.vercel.app](https://abdelrahman-aboalkhair.vercel.app)
-- 🐙 GitHub: [github.com/Abdelrahman-Aboalkhair](https://github.com/Abdelrahman-Aboalkhair)
+### Skills
+- Programming: JavaScript, TypeScript, Python
+- Frontend: Next.js, React, React Three Fiber (R3F)
+- Backend: Node.js, Express, Nest.js
+- Databases: MongoDB, PostgreSQL, Redis, Prisma, Mongoose
+- Tools: Docker, OAuth, Jest, WebSockets, WebRTC
+- Other: AI/ML Integration, 3D Modeling, IoT
 
----
-
-*“Building the future, one line of code at a time.”*
+### Projects
+- **WinchUp (Startup), 2024 -- Present**  
+  Developed a web app connecting people relocating.
