@@ -47,7 +47,7 @@ I'm Abdelrahman Aboalkhair, an 18-year-old Egyptian full-stack web developer wit
 
 ## 🏆 Achievements
 - Developed production-ready web applications as a self-taught developer.
-- Launched WinchUp, addressing real-world logistics challenges.
+- Working on my first startup WinchUp, addressing real-world logistics challenges.
 - Built a donor management system for Resala Charity, supporting community impact.
 - Mastered full-stack development and AI integration at a young age.
 
