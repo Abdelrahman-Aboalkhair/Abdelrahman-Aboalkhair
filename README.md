@@ -24,12 +24,6 @@ I'm Abdelrahman Aboalkhair, an 18-year-old Egyptian full-stack web developer wit
 
 **Interests**: AI/ML, 3D Modeling, IoT
 
-## 🚀 Projects
-- **WinchUp** (Startup)  
-  A web app connecting people relocating with winch operators (drivers and companies), streamlining logistics with a user-centric design.  
-  *Tech*: Next.js, Nest.js, Postgres, Prisma
-  *Repo*: [github.com/Abdelrahman-Aboalkhair/winchup](https://github.com/Abdelrahman-Aboalkhair/winchup)
-
 - **Resala Charity Donor Management System**  
   A donor management system for Resala (رسالة), enabling efficient tracking of donations, donor engagement, and campaign analytics.  
   *Tech*: React, Express, PostgreSQL, Prisma  
