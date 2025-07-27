@@ -50,7 +50,7 @@ I'm excited to collaborate on innovative projects or explore opportunities where
 
 - 📧 Email: [your.email@example.com](mailto:abdalrahman.aboalkhair.1@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/abdelrahman-aboalkhair-65771833b](https://www.linkedin.com/in/abdelrahman-aboalkhair-65771833b)
-- 🌐 Portfolio: [abdelrahman-aboalkhair.vercel.app](https://abdelrahman-aboalkhair.vercel.app)
+- 🌐 Portfolio: [https://3d-portfolio-abdelrahman.netlify.app/](https://3d-portfolio-abdelrahman.netlify.app/)
 - 🐙 GitHub: [github.com/Abdelrahman-Aboalkhair](https://github.com/Abdelrahman-Aboalkhair)
 
 ---
