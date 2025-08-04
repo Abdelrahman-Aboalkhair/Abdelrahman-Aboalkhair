@@ -4,7 +4,6 @@ I'm Abdelrahman Aboalkhair, an 18-year-old Egyptian full-stack web developer wit
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdelrahman Aboalkhair)
-
 [![Upwork](https://img.shields.io/badge/Upwork-%2300B22D.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a2b3c4d5e6f7g8h9)(https://www.upwork.com/freelancers/~01c620553e92dea652)
 
 
