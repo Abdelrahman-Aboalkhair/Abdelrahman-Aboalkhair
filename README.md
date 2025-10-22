@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abdelrahman Aboalkhair, an 18-year-old Egyptian full-stack web developer with a passion for crafting scalable, high-performance systems.<br> As a high schooler, I specialize in integrating AI, machine learning,<br> and 3D models into innovative web and mobile applications.<br> My curiosity drives me to explore cutting-edge technologies,<br> with a long-term vision of mastering IoT to blend electronics with AI-driven solutions.<br>
+I'm Abdelrahman Aboalkhair, an 18-year-old Egyptian full-stack web developer with a passion for crafting scalable, high-performance systems.<br> As a high schooler, I specialize in building scalable web apps.
 
 
 ## 🌐 Socials:
