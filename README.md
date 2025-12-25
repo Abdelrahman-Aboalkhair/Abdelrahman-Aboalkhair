@@ -8,6 +8,7 @@
   <a href="https://www.upwork.com/freelancers/~01c620553e92dea652" target="_blank">Upwork</a>
 </p>
 
+---
 
 <h3 align="left">Featured Projects</h3>
 
@@ -26,7 +27,14 @@
     <b>Dynamic Site Builder</b><br/>
     A template-driven website generator that enables rapid site creation with customizable layouts, components, and automated configuration.
   </li>
+  <br/>
+  <li>
+    <b>E-commerce Store</b><br/>
+    A modern single-store ecommerce platform with a full stack architecture using **Next.js frontend** and a **TypeScript backend** (Express, Prisma, PostgreSQL, Redis). Features include user authentication, product catalog, cart, checkout, order processing, analytics, and real-time chat integration. :contentReference[oaicite:1]{index=1}
+  </li>
 </ul>
+
+---
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -67,3 +75,15 @@
     </ul>
   </li>
 </ul>
+
+---
+
+<p align="center">
+  <i>Building scalable systems, learning continuously, and shipping with purpose.</i>
+</p>
+
+<p align="center">
+  © 2025 Abdalrahman Aboalkhair · Full Stack JavaScript Developer
+</p>
+
+
