@@ -1,5 +1,5 @@
 <h1 align="center">You Found Me, It's Abdalrahman Aboalkhair</h1>
-<h3 align="center">Full stack javascript developer from Egypt (might be passionate not really sure :)</h3>
+<h3 align="center">Full stack javascript developer from Egypt. Might be passionate not really sure :)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
