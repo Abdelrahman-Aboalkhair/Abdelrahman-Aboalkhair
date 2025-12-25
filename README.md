@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/abdalrahman-aboalkhair-65771833b" target="_blank">LinkedIn</a>
+  <a href="[www.linkedin.com/in/abdalrahman-aboalkhair-65771833b](https://www.linkedin.com/in/abdalrahman-aboalkhair-65771833b/)" target="_blank">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="https://www.upwork.com/freelancers/~01c620553e92dea652" target="_blank">Upwork</a>
 </p>
