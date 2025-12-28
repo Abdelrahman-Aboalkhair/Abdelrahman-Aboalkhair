@@ -10,32 +10,6 @@
 
 ---
 
-<h3 align="left">Featured Projects</h3>
-
-<ul>
-  <li>
-    <b>AI-Powered Smart Recruiter</b><br/>
-    An intelligent recruitment platform leveraging AI to screen candidates, rank profiles, and assist hiring decisions using data-driven insights.
-  </li>
-  <br/>
-  <li>
-    <b>IoT REST API Backend</b><br/>
-    A scalable backend system for managing IoT devices, handling real-time data ingestion, authentication, and device-to-server communication via RESTful APIs.
-  </li>
-  <br/>
-  <li>
-    <b>Dynamic Site Builder</b><br/>
-    A template-driven website generator that enables rapid site creation with customizable layouts, components, and automated configuration.
-  </li>
-  <br/>
-  <li>
-    <b>E-commerce Store</b><br/>
-    A modern single-store ecommerce platform with a full stack architecture using **Next.js frontend** and a **TypeScript backend** (Express, Prisma, PostgreSQL, Redis). Features include user authentication, product catalog, cart, checkout, order processing, analytics, and real-time chat integration. :contentReference[oaicite:1]{index=1}
-  </li>
-</ul>
-
----
-
 <h3 align="left">Languages and Tools</h3>
 
 <ul>
