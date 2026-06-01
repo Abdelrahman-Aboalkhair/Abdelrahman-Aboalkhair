@@ -38,11 +38,6 @@ More on my **[portfolio](https://abdalrahman-aboalkhair.work/#projects)**.
 
 ---
 
-[![ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=...)]
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=...)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=...)
----
-
 ## Contact
 
 - **Email:** abdelrahman.aboalkhair1@gmail.com  
