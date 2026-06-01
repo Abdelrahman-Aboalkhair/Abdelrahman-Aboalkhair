@@ -38,23 +38,14 @@ More on my **[portfolio](https://abdalrahman-aboalkhair.work/#projects)**.
 
 ---
 
-## Featured repo
-
-[![ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahman-Aboalkhair&repo=ecommerce&theme=radical&hide_border=true)](https://github.com/Abdelrahman-Aboalkhair/ecommerce)
-
----
-
-## GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Aboalkhair&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Aboalkhair&layout=compact&theme=radical&hide_border=true)
-
+[![ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=...)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=...)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=...)
 ---
 
 ## Contact
 
-- **Email:** abdalrahman.aboalkhair19@gmail.com  
+- **Email:** abdelrahman.aboalkhair1@gmail.com  
 - **Portfolio:** https://abdalrahman-aboalkhair.work  
 - **Upwork:** Top Rated — [hire me](https://www.upwork.com/freelancers/abdalrahmanaboalkhair)
 
