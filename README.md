@@ -32,6 +32,8 @@ More on my **[portfolio](https://abdalrahman-aboalkhair.work/#projects)**.
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Abdelrahman-Aboalkhair&color=blue)
+
 ## Tech I use often
 
 `TypeScript` · `Next.js` · `React` · `Node.js` · `Express` · `Prisma` · `PostgreSQL` · `Redis` · `Supabase` · `Stripe` · `Docker` · `Deno`
