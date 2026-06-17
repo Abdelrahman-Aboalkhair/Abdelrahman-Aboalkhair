@@ -43,9 +43,3 @@ More on my **[portfolio](https://abdalrahman-aboalkhair.work/#projects)**.
 - **Email:** abdelrahman.aboalkhair1@gmail.com  
 - **Portfolio:** https://abdalrahman-aboalkhair.work  
 - **Upwork:** Top Rated — [hire me](https://www.upwork.com/freelancers/abdalrahmanaboalkhair)
-
----
-
-*Mostly building in TypeScript. Open to freelance & contract work.*
-
-![](https://komarev.com/ghpvc/?username=Abdelrahman-Aboalkhair&color=blue)
