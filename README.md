@@ -9,20 +9,6 @@ I help teams ship products **end to end** — scope, backend, frontend, integrat
 
 ---
 
-## Selected work
-
-| Project | What it is | Link |
-|--------|------------|------|
-| **Skipee Sites** | All-in-one SaaS for UK trades (site, booking, quotes, invoicing) | [Live](https://sites.skipee.co.uk/) |
-| **Seen AI** | AI hiring platform (search, CV parsing, interviews) | [Live](https://www.seenhr.ai/) |
-| **E-commerce platform** | Open-source full-stack store (Next.js, Express, Prisma, Stripe) | [Repo](https://github.com/Abdelrahman-Aboalkhair/ecommerce) · [Demo](https://ecommerce-nu-rosy.vercel.app/) |
-| **Elm (علم)** | Angular UI from design — digital services catalog (RTL) | [Demo](https://online-sales-frontend.vercel.app/) |
-| **IoT Telemetry Backend** | Deno REST API, PostgreSQL, RBAC, async ingestion | Portfolio |
-
-More on my **[portfolio](https://abdalrahman-aboalkhair.work/#projects)**.
-
----
-
 ## What I work on
 
 - SaaS platforms & admin dashboards  
