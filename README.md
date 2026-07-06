@@ -28,4 +28,4 @@ I help teams ship products **end to end** — scope, backend, frontend, integrat
 
 - **Email:** abdelrahman.aboalkhair1@gmail.com  
 - **Portfolio:** https://abdalrahman-aboalkhair.work  
-- **Upwork:** Top Rated — [hire me](https://www.upwork.com/freelancers/abdalrahmanaboalkhair)
+- **Upwork:** (https://www.upwork.com/freelancers/abdalrahmanaboalkhair)
