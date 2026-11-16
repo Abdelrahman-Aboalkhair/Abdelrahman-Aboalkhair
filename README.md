@@ -31,4 +31,3 @@ I help teams ship products **end to end** — scope, backend, frontend, integrat
 - **Upwork:** (https://www.upwork.com/freelancers/abdalrahmanaboalkhair)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Aboalkhair)
